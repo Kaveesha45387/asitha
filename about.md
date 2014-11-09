@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Software Engineer at [WSO2 Inc.](http://wso2.com) and holds a bachelors degree in Computer Science and Engineering from University of Moratuwa.
+Apart from my profession I enjoy playing badminton, swimming, reading and anything to do with video production :movie_camera:
 
-### More Information
+A cool video on <b>The Art of Writing Software</b>
 
-A place to include any other types of information that you'd like to include about yourself. 
+<iframe width="854" height="510" src="//www.youtube.com/embed/QdVFvsCWXrA" frameborder="0" allowfullscreen></iframe>
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dulanjana.asitha@gmail.com](mailto:dulanjana.asitha@gmail.com) :email:
