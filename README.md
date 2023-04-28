@@ -1,8 +1,5 @@
-## Hi I'm [Asitha](https://asitha.github.io)
+## Hi I'm [Asitha](https://asitha.github.io) 👋
 
-I'm a Senior Technical Lead @[WSO2](https://wso2.com) working in the Cloud Native Application Development profile of Choreo, the WSO2 SaaS offering. 
+A Cloud-native enthusiast, learner, mentor, and a coder.
 
-My technical skills includes enterprise integration, enterprise messaging (predominantly
-in AMQP, JMS and Kafka). 
-
-LinkedIn: https://www.linkedin.com/in/asithan
+[LinkedIn](https://www.linkedin.com/in/asithan) 
