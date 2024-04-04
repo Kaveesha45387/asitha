@@ -2,4 +2,4 @@
 
 A Cloud-native enthusiast, learner, mentor, and a coder.
 
-[LinkedIn](https://www.linkedin.com/in/asithan) [GitLab](https://gitlab.com/asithan)
+[LinkedIn](https://www.linkedin.com/in/asithan)  |  [GitLab](https://gitlab.com/asithan)
